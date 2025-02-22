@@ -1,0 +1,1657 @@
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse-1845301123\testng-customsuite.xml
+
+2025-02-14 18:33:14 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-02-14 18:33:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:33:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:33:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 18:33:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 18:33:19 [main] INFO  testCases.TC001_AccountRegistrationTestValidating  - expected message
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f2d52ef: 59 ms
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@f2ce6b: 1 ms
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1686f0b4: 8 ms
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43034809: 6 ms
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6c03fb16: 6 ms
+2025-02-14 18:33:20 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@28348c6: 0 ms
+2025-02-14 18:55:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-14 18:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:55:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 18:55:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 18:56:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-14 18:56:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:56:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:56:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 18:56:24 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 18:56:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 18:58:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-14 18:59:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:59:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 18:59:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 18:59:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 18:59:19 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:00:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-14 19:00:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:00:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:00:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:00:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:00:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:02:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\crossbrowsertesting.xml
+
+2025-02-14 19:02:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:02:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:02:55 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:02:55 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:02:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:03:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:03:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:03:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:03:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:03:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:03:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:04:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\crossbrowsertesting.xml
+
+2025-02-14 19:04:03 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:03 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:03 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:03 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:03 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:04:03 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:04:04 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:04:04 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:04:05 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:04:05 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-14 19:04:07 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:07 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-14 19:04:07 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-14 19:04:08 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-14 19:04:09 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse-191233464\testng-customsuite.xml
+
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4fad94a7: 67 ms
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2cf92cc7: 12 ms
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@70dd7e15: 11 ms
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fd46303: 8 ms
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79e18e38: 7 ms
+2025-02-15 15:30:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29a60c27: 0 ms
+2025-02-15 15:31:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:33:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\crossbrowsertesting.xml
+
+2025-02-15 15:35:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\crossbrowsertesting.xml
+
+2025-02-15 15:36:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse-1318002649\testng-customsuite.xml
+
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4fad94a7: 56 ms
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2cf92cc7: 12 ms
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@70dd7e15: 8 ms
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fd46303: 9 ms
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79e18e38: 5 ms
+2025-02-15 15:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29a60c27: 0 ms
+2025-02-15 15:41:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:44:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:44:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:44:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:44:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 15:45:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:45:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:45:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:45:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 15:46:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:46:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:46:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:46:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 15:49:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:49:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:49:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:49:57 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:49:57 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:49:57 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 15:51:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:51:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:51:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:51:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 15:52:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 15:52:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:52:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 15:52:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 16:59:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-15 16:59:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 16:59:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-15 16:59:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-15 16:59:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-15 16:59:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse--1510124087\testng-customsuite.xml
+
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4fad94a7: 70 ms
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2cf92cc7: 13 ms
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@70dd7e15: 13 ms
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fd46303: 7 ms
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79e18e38: 6 ms
+2025-02-21 11:24:53 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29a60c27: 0 ms
+2025-02-21 11:25:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:25:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 11:25:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 11:25:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 11:25:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 11:25:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 11:27:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:27:17 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 11:27:17 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 11:27:17 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 11:27:18 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 11:27:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:27:57 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 11:27:57 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 11:27:57 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 11:27:57 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 11:29:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:29:20 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 11:29:21 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 11:29:21 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 11:29:21 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 11:29:21 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 11:29:22 [main] INFO  testCases.TC002_LoginTest - ------------Verified page-----------
+2025-02-21 11:32:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:32:59 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 11:32:59 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 11:33:00 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 11:33:00 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 11:33:01 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 11:33:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 11:33:34 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 11:33:35 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 11:33:35 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 11:33:35 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 11:33:35 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 11:33:36 [main] INFO  testCases.TC002_LoginTest - ------------Verified page-----------
+2025-02-21 12:31:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 12:31:57 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 12:31:57 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 12:31:58 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 12:31:58 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 12:31:58 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 12:31:59 [main] INFO  testCases.TC002_LoginTest - ------------Verified page-----------
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse--303041502\testng-customsuite.xml
+
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-21 12:41:19 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: .\testData\Opencart_LoginData.xlsx (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:159)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:29)
+	at utilities.DataProviders.getData(DataProviders.java:16)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7fcbe147: 68 ms
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d08f3f5: 11 ms
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@78aea4b9: 10 ms
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c9399a4: 7 ms
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@172ca72b: 5 ms
+2025-02-21 12:41:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bda80bf: 0 ms
+2025-02-21 12:42:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 12:46:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 12:48:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 12:48:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 12:48:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 12:48:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 12:48:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 12:48:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 12:48:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse-1370262636\testng-customsuite.xml
+
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-02-21 12:50:49 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: .\testData\Opencart_LoginData.xlsx (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:159)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:29)
+	at utilities.DataProviders.getData(DataProviders.java:16)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7fcbe147: 60 ms
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d08f3f5: 10 ms
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@78aea4b9: 9 ms
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c9399a4: 10 ms
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@172ca72b: 8 ms
+2025-02-21 12:50:49 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bda80bf: 0 ms
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse-1288338480\testng-customsuite.xml
+
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-02-21 12:58:23 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: .\testData\Opencart_LoginData.xlsx (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:159)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:30)
+	at utilities.DataProviders.getData(DataProviders.java:16)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7fcbe147: 64 ms
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d08f3f5: 10 ms
+2025-02-21 12:58:23 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@78aea4b9: 10 ms
+2025-02-21 12:58:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c9399a4: 8 ms
+2025-02-21 12:58:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@172ca72b: 6 ms
+2025-02-21 12:58:24 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bda80bf: 0 ms
+2025-02-21 12:58:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:00:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:00:38 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:00:38 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:00:38 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:00:39 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:00:39 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:00:49 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:00:49 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:00:49 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:00:59 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:00:59 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:00:59 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:01:10 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:01:10 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:01:10 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:01:20 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:01:20 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:01:20 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:01:30 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:01:30 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:01:30 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\AppData\Local\Temp\testng-eclipse--883586030\testng-customsuite.xml
+
+2025-02-21 13:03:05 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@33cbfa57: 50 ms
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2c708440: 8 ms
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2063c53e: 9 ms
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36dfbdaf: 10 ms
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@359b650b: 7 ms
+2025-02-21 13:03:06 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a9b0a6f: 1 ms
+2025-02-21 13:04:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:04:36 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:04:36 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:04:36 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:04:36 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:04:37 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:04:47 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:04:47 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:04:47 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:04:57 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:04:57 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:04:57 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:05:07 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:05:07 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:05:07 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:05:17 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:05:17 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:05:17 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:05:28 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:05:28 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:05:28 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:10:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:10:31 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:10:32 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:10:42 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:10:42 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:10:42 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:10:52 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:10:52 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:10:52 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:11:02 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:11:02 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:11:02 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:11:12 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:11:12 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:11:12 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:11:22 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:11:22 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:11:22 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:11:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:11:45 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:11:45 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:11:45 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:11:45 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:11:46 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:11:46 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:11:46 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:11:46 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:11:46 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:11:56 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:11:56 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:11:56 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:12:06 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:12:06 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:12:06 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:12:16 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:12:16 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:12:16 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:12:26 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:12:26 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:12:26 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:12:37 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:12:37 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:12:37 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:17:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:17:31 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:17:31 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:17:31 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:17:31 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:17:32 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:17:32 [main] INFO  testCases.TC002_LoginTest - ------------Verified page-----------
+2025-02-21 13:18:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:18:14 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:18:14 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:18:15 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:18:15 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:18:15 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:20:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:20:49 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:20:49 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:20:49 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:20:49 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:20:49 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:22:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:22:11 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:22:11 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:22:11 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:22:12 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:22:12 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:26:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:26:12 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:26:12 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:26:12 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:26:13 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:26:13 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:27:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:27:05 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:27:05 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:27:05 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:27:05 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:27:06 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:27:06 [main] INFO  testCases.TC002_LoginTest - ------------Verified page-----------
+2025-02-21 13:34:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:34:09 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 13:34:09 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 13:34:09 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 13:34:10 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 13:34:10 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 13:41:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:10 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:11 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:12 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:12 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:12 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:12 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:22 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:41:32 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:32 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:32 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:33 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:33 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:33 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:33 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:33 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:43 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:41:44 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:41:45 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:41:45 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:41:45 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:41:45 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:41:45 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:43:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:43:42 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:43:43 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:43:53 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:43:53 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:43:54 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:44:04 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:44:04 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:44:04 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:44:04 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:44:04 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:44:05 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:44:05 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:44:05 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:44:15 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:44:16 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:44:17 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:44:17 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:52:23 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:23 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:24 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:25 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:36 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:46 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:46 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:46 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:46 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:47 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:47 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:47 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:47 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:57 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:52:58 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:18 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:19 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:20 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:20 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:20 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:20 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:20 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:30 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:41 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:51 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:51 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:51 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:51 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:52 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:54:53 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:54:54 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:55:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:56:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:57:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 13:57:48 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:57:48 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:57:48 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:57:49 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:57:50 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:58:00 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:58:00 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:58:00 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:58:01 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:58:01 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:58:01 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:58:01 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:58:01 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:58:11 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:58:11 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:58:11 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:58:11 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:58:11 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:58:12 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:58:12 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:58:12 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:58:22 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 13:58:23 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 13:58:24 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 13:58:24 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:19:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 14:19:39 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:19:39 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:19:39 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:19:40 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:19:41 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:19:51 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:19:51 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:19:51 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:19:52 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:19:52 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:19:52 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:19:52 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:19:52 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:20:02 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:20:03 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:20:03 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:20:13 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:20:14 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 14:24:05 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:05 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:05 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:06 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:07 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:17 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:24:17 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:17 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:17 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:18 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:18 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:18 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:18 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:18 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:28 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:29 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:29 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:29 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:39 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:24:40 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:24:50 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:25:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 14:25:51 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:25:51 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:25:51 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:25:52 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:25:53 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:03 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:26:03 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:26:03 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:26:03 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:26:04 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:26:04 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:26:04 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:26:04 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:26:04 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:26:14 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:26:15 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:26:15 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:26:15 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:26:25 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:26:26 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:36 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:26:36 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:26:36 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:26:37 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:26:47 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:29:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:29:28 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:29:29 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:29:30 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:29:30 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:29:30 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:29:30 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:29:30 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:29:40 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:29:50 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:29:51 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:30:01 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:30:01 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:30:01 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:30:01 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:30:02 [main] INFO  testCases.TC003_LoginDDT - Page verified...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - logout clicked...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:30:03 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:30:13 [main] INFO  testCases.TC003_LoginDDT - -----------------Starting TC003_LoginDDT-------------
+2025-02-21 14:30:13 [main] INFO  testCases.TC003_LoginDDT - Clicking clickMyAccount 
+2025-02-21 14:30:13 [main] INFO  testCases.TC003_LoginDDT - Clicking LoginLink 
+2025-02-21 14:30:14 [main] INFO  testCases.TC003_LoginDDT - Providing customer details...
+2025-02-21 14:30:14 [main] INFO  testCases.TC003_LoginDDT - email sent...
+2025-02-21 14:30:14 [main] INFO  testCases.TC003_LoginDDT - Password send...
+2025-02-21 14:30:14 [main] INFO  testCases.TC003_LoginDDT - Login click...
+2025-02-21 14:30:14 [main] INFO  testCases.TC003_LoginDDT - ------------Verifying page-----------
+2025-02-21 14:30:24 [main] INFO  testCases.TC003_LoginDDT - -----------------Finished TC003_LoginDDT-------------
+2025-02-21 14:45:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 14:45:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 14:45:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 14:45:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 14:45:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 14:45:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 14:45:46 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 14:45:46 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 14:45:46 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 14:45:46 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 14:45:47 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 14:46:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 14:46:31 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 14:46:31 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 14:46:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 14:46:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 14:46:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 14:47:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 14:47:26 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 14:47:26 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 14:47:26 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 14:47:27 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 14:47:27 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 14:48:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 14:49:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:25:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:26:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:26:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:26:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:26:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:26:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:26:04 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:26:04 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:26:05 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:26:05 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:26:05 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:28:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:28:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:28:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:28:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:28:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:28:55 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:28:57 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:28:57 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:28:58 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:28:58 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:28:58 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:30:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:30:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:30:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:30:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:30:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:30:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:30:11 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:30:11 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:30:11 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:30:11 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:30:12 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:33:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:33:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:33:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:33:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:33:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:33:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:33:28 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:33:28 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:33:29 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:33:29 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:33:29 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:37:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:37:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:37:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:37:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:37:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:37:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:37:08 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:37:08 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:37:08 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:37:08 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:37:09 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:37:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\grouping.xml
+
+2025-02-21 15:37:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:37:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:37:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:37:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:37:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:37:55 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:37:55 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:37:55 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:37:56 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 15:37:56 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 15:39:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 15:39:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:39:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:39:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:39:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:39:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:43:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 15:43:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:43:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:43:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:43:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:43:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:51:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 15:51:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:51:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 15:51:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 15:51:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 15:51:21 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 15:59:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 15:59:15 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 15:59:15 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 15:59:16 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 15:59:16 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 16:41:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 16:41:52 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 16:41:52 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 16:41:53 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 16:41:53 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 16:41:54 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 16:41:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:41:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:41:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 16:41:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 16:42:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-21 16:43:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\crossbrowsertesting.xml
+
+2025-02-21 16:43:33 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:33 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:36 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:36 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:37 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 16:43:38 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 16:43:38 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:38 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:43:49 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 16:45:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-21 16:45:54 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-21 16:45:54 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-21 16:45:54 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-21 16:45:55 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-21 16:45:55 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-21 16:45:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:45:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-21 16:45:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-21 16:45:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-21 16:46:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 12:59:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:00:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:08:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:08:41 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:08:41 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:08:42 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:08:42 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:08:43 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:08:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:08:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:08:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:08:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:08:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:11:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:11:34 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:11:34 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:11:35 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:11:35 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:11:35 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:11:39 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:11:39 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:11:39 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:11:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:11:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:13:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:13:18 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:13:18 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:13:18 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:13:19 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:13:19 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:13:22 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:13:22 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:13:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:13:23 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:13:24 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:35:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:35:35 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:35:35 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:35:35 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:35:36 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:35:36 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:35:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:35:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:35:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:35:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:35:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:37:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:37:41 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:37:41 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:37:42 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:37:42 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:37:42 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:37:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:37:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:37:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:37:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:37:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:40:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Suri2000\eclipse-workspace\OpenCartv121\mater.xml
+
+2025-02-22 13:40:20 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:40:20 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:40:20 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:40:21 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:40:21 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:40:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:40:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:40:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:40:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:40:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:43:37 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:43:37 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:43:37 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:43:38 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:43:38 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:43:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:43:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:43:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:43:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:43:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 13:54:06 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 13:54:06 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 13:54:06 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 13:54:06 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 13:54:07 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 13:54:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:54:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 13:54:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 13:54:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 13:54:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-02-22 14:54:59 [main] INFO  testCases.TC002_LoginTest - -----------------Checking TC002_verify_login------------n
+2025-02-22 14:54:59 [main] INFO  testCases.TC002_LoginTest - Clicking clickMyAccount 
+2025-02-22 14:54:59 [main] INFO  testCases.TC002_LoginTest - Clicking LoginLink 
+2025-02-22 14:54:59 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
+2025-02-22 14:55:00 [main] INFO  testCases.TC002_LoginTest - ------------Verifying page-----------
+2025-02-22 14:55:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 14:55:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickMyAccount 
+2025-02-22 14:55:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking clickRegister 
+2025-02-22 14:55:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-22 14:55:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
